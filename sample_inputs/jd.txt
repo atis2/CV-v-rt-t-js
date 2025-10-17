@@ -1,0 +1,1 @@
+Darba apraksts: Meklējam pieredzējušu Python programmētāju ar zināšanām par datubāzēm (SQL, NoSQL) un mākoņpakalpojumiem (AWS/Azure/GCP). Nepieciešama vismaz 3 gadu pieredze.

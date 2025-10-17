@@ -1,0 +1,87 @@
+Vārds, Uzvārds: Elīna Ozoliņa
+📞 +371 20000000 | ✉️ elina.ozolina@gmail.com
+ | 📍 Rīga, Latvija
+💻 github.com/elinaozolina
+ | linkedin.com/in/elinaozolina
+
+🔹 PROFILA KOPSAVILKUMS
+
+Motivēta Python programmētāja ar 2 gadu pieredzi tīmekļa lietotņu un automatizācijas risinājumu izstrādē. Specializējos darbā ar Django, Flask un REST API, kā arī datu apstrādē ar Pandas un SQL. Raksturo mani tīrs kods, vēlme mācīties un spēja pielāgoties jaunām tehnoloģijām. Meklēju iespēju turpināt attīstīties pilna laika Python izstrādātāja amatā modernā un tehnoloģiski izaicinošā vidē.
+
+💼 DARBA PIEREDZE
+
+Python izstrādātāja
+SIA “CodeBridge” | 2023 – pašlaik
+
+Izstrādāju un uzturu REST API risinājumus ar Django REST Framework.
+
+Automatizēju datu importu no ārējiem avotiem, samazinot manuālo apstrādi par 30%.
+
+Izveidoju lietotāja datu validācijas sistēmu, kas uzlaboja datu kvalitāti par 25%.
+
+Strādāju ar PostgreSQL, Docker un Git (GitHub) vidē.
+
+Aktīvi sadarbojos ar frontend komandu (React) un QA testētājiem.
+
+Junior Python izstrādātāja
+SIA “DataPlus” | 2022 – 2023
+
+Palīdzēju izstrādāt iekšējo datu pārvaldības rīku, izmantojot Flask un SQLite.
+
+Automatizēju Excel atskaišu ģenerēšanu ar Pandas un openpyxl.
+
+Piedalījos API dokumentācijas veidošanā (Swagger / Postman).
+
+Veicu vienību testus ar pytest un uzlaboju kļūdu apstrādes loģiku backend pusē.
+
+🎓 IZGLĪTĪBA
+
+Rīgas Tehniskā universitāte — Datorzinātņu bakalaura studijas
+2018 – 2022
+
+Papildu apmācības:
+
+Complete Python Developer Bootcamp (Udemy, 2021)
+
+Django for Professionals (2023)
+
+🧰 TEHNOLOĢIJAS UN PRASMES
+
+Valodas un ietvari:
+Python, Django, Flask, FastAPI, JavaScript (pamata līmenī)
+
+Datu bāzes:
+PostgreSQL, SQLite, MySQL
+
+Rīki un sistēmas:
+Git, Docker, Linux, Postman, VS Code
+
+Datu apstrāde un testēšana:
+Pandas, NumPy, pytest, unittest
+
+Mīkstās prasmes:
+Komandas darbs, problēmu risināšana, komunikācija, laika plānošana, atvērtība jaunām tehnoloģijām
+
+🏆 SASNIEGUMI
+
+Veiksmīgi izstrādāts un ieviests iekšējais datu sinhronizācijas rīks, kas samazināja manuālo darbu par 6 stundām nedēļā.
+
+Uzrakstīju 20+ automatizētus testus, kas palīdzēja atrast kļūdas agrīnā stadijā un uzlaboja koda stabilitāti.
+
+Piedalījos hackathonā “Code4Future 2024”, kur komanda ieguva 2. vietu datu analīzes kategorijā.
+
+💬 VALODAS
+
+Latviešu — dzimtā
+
+Angļu — C1 (brīvi mutiski un rakstiski)
+
+Krievu — B2 (sarunvalodas līmenī)
+
+📂 PAPILDU INFORMĀCIJA
+
+Pieejama GitHub portfolio ar Python un Django projektiem
+
+Atvērta attālinātam vai hibrīdam darba modelim
+
+Interesējas par mākslīgā intelekta un datu analīzes projektiem

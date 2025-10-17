@@ -1,0 +1,12 @@
+{
+    "match_score": 5,
+    "summary": "Kandidāta CV nesatur nevienu no darba aprakstā minētajām tehniskajām prasmēm vai pieredzi. CV norādītā pieredze veikalā un prasmes, piemēram, komunikācija un darbs komandā, nav tieši saistītas ar meklēto Python programmētāja amatu.",
+    "strengths": [],
+    "missing_requirements": [
+        "Pieredze ar Python programmēšanu",
+        "Zināšanas par datubāzēm (SQL, NoSQL)",
+        "Zināšanas par mākoņpakalpojumiem (AWS/Azure/GCP)",
+        "Vismaz 3 gadu pieredze attiecīgajā jomā"
+    ],
+    "verdict": "not a match"
+}
